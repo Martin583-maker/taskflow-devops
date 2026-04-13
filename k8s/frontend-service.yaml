@@ -10,5 +10,5 @@ spec:
     - protocol: TCP
       port: 5173
       targetPort: 5173
-      nodePort: 30173
+      nodePort: 30273
   type: NodePort
